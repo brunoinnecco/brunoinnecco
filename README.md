@@ -1,5 +1,5 @@
 
-# I’m currently working with:
+# <i>I’m currently working with:<i/>
 
 <div style="display: flex;">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" alt = "html" widft = "40" height = "40" style = "max-width;100%;margin: 0 2px"></img>
